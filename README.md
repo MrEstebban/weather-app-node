@@ -6,7 +6,7 @@
 node app -c "Ney York"
 ``` 
 
-Remember to execute ```npm install``` para instalar las librerias de axios y yargs
+Remember to execute ```npm install``` to install axios and yargs libraries.
 
 
 
